@@ -1,6 +1,6 @@
 
 
-str = "fox brown jumps over lazy cat"
+str: = "fox brown jumps over lazy cat"
 
 vocal = ['a','i','u','e','o']
 
